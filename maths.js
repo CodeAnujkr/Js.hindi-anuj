@@ -38,4 +38,3 @@ console.log(Math.floor(Math.random()* (max - max + 1)) + min)
 
 
 
-
