@@ -33,7 +33,7 @@ const min = 10
 const max = 20
 console.log(Math.floor(Math.random()* (max - max + 1)) + min)
 
-
+const  m = 10
 
 
 
